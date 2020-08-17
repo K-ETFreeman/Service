@@ -10632,7 +10632,7 @@ var awardsSwiper = new Swiper('.trusts__container', {
   }
 });
 ;
-var awardsSwiper = new Swiper('.takealso__container', {
+var takealso = new Swiper('.takealso__container', {
   direction: 'horizontal',
   loop: true,
   spaceBetween: 100,
